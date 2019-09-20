@@ -1,0 +1,4 @@
+# Created by cloud-init v. 18.5-45-g3554ffe8-0ubuntu1~16.04.1 on Tue, 17 Sep 2019 10:59:03 +0000
+
+# User rules for administrator
+administrator ALL=(ALL) NOPASSWD:ALL
